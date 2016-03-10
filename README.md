@@ -7,6 +7,7 @@ Current implementations on the repo are:
 - C (C99) with args
 - Python (2.7.10) with args
 - Java (SE8) with args
+- JavaScript (NodeJS) with args
 
 For those who aren't familiar with FizzBuzz/Fizzbuzz/etc, it's a quick test of a programmer's ability to apply their raw logical aptitude, without being able to rely on any particular library/tool/platform, and gives a good indicator of their actual inate ability to produce good code.
 
